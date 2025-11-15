@@ -3,10 +3,10 @@ This repository hosts a reimplementation of (some of) [goober central](https://g
 
 # Implementation status
 
-[x] Alive pings
-[x] Alerts
-[x] Version checking
-[ ] Token authentication (probably won't be implemented, at least by me)
+- [x] Alive pings
+- [x] Alerts
+- [x] Version checking
+- [ ] Token authentication (probably won't be implemented, at least by me)
 
 # How to use
 
