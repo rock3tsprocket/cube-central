@@ -38,7 +38,7 @@ async def ping(request):
               },
               {
                 "name": "Memory File Info",
-                "value": f"File size: {ping_payload["memory_file_info"]["file_size_bytes"]}\nLine count: {ping_payload["memory_file_info"]["line_count"]}"
+                "value": f"File size: {ping_payload["memory_file_info"]["file_size_bytes"]} bytes\nLine count: {ping_payload["memory_file_info"]["line_count"]}"
               }
             ],
              "footer": {
